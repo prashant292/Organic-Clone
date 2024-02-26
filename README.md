@@ -1,2 +1,1 @@
-# Organic-Cotton-Mart-Clone
-html css js 
+Refresh Page when You Navigate To product Page
